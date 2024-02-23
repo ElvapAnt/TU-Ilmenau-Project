@@ -1,0 +1,10 @@
+{
+    "Pavle": {
+        "db_path": "C:\\Users\\paan8573\\Desktop\\Notebook Project\\measurement_gui\\UserDatabases\\Pavle_database.db",
+        "config_path": "C:\\Users\\paan8573\\Desktop\\Notebook Project\\measurement_gui\\UserConfigs\\Pavle_config.json"
+    },
+    "Frank": {
+        "db_path": "C:\\Users\\paan8573\\Desktop\\Notebook Project\\measurement_gui\\UserDatabases\\Frank_database.db",
+        "config_path": "C:\\Users\\paan8573\\Desktop\\Notebook Project\\measurement_gui\\UserConfigs\\Frank_config.json"
+    }
+}
